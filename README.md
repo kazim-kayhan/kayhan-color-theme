@@ -1,2 +1,2 @@
 # kayhan-color-theme
-## Kayhan Color Theme for visualstudio code v1.
+## A theme extension for VS Code based.

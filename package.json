@@ -3,7 +3,11 @@
   "displayName": "kayhan-color-theme",
   "description": "Kayhan vscode dark color theme",
   "publisher": "KazimKayhan",
-  "version": "0.0.2",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kazim-kayhan/kayhan-color-theme"
+  },
   "engines": {
     "vscode": "^1.66.0"
   },
