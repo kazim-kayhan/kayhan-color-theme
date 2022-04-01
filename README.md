@@ -1,2 +1,2 @@
 # kayhan-color-theme
-## A theme extension for VS Code based.
+## A dark color theme extension for VS Code.
