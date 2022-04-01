@@ -1,0 +1,22 @@
+{
+  "name": "kayhan-color-theme",
+  "displayName": "kayhan-color-theme",
+  "description": "Kayhan vscode dark color theme",
+  "publisher": "KazimKayhan",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kayhan Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kayhan-color-theme.json"
+      }
+    ]
+  }
+}
