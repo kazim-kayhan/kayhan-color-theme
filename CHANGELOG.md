@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "kayhan-color-theme" extension will be documented in this file.
+All notable changes to the "kayhan-color-theme" extension are documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+version: "1.4.0" Sat, April 02, 2022
 
-## [Unreleased]
-
-- Initial release
+- Initial release Fri, April 01, 2022
