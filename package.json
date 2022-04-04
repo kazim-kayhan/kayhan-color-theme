@@ -4,7 +4,7 @@
   "description": "Kayhan color theme for VS Code",
   "icon": "icon.png",
   "publisher": "KazimKayhan",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/kazim-kayhan/kayhan-color-theme"
