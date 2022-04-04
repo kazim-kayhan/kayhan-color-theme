@@ -1213,7 +1213,7 @@
       "name": "brace function",
       "scope": "function.brace",
       "settings": {
-        "foreground": "#dddddd"
+        "foreground": "#179ac7"
       }
     },
     {
@@ -1399,7 +1399,7 @@
         "keyword.other.substitution.begin"
       ],
       "settings": {
-        "foreground": "#b0b0b0"
+        "foreground": "#179ac7"
       }
     },
     {
@@ -1408,7 +1408,7 @@
         "keyword.other.substitution.end"
       ],
       "settings": {
-        "foreground": "#b0b0b0"
+        "foreground": "#179ac7"
       }
     },
     {
@@ -1782,7 +1782,7 @@
         " meta.brace.square"
       ],
       "settings": {
-        "foreground": "#dddddd"
+        "foreground": "#179ac7"
       }
     },
     {
